@@ -1,0 +1,38 @@
+
+
+
+
+.col.text-start {
+    font-size: 12px;
+}
+.tvd {
+    color: white !important;
+}
+b.tvd {
+    color: #fff !important;
+}
+
+/*.modal-body {*/
+/*    height: 800px !important;*/
+/*}*/
+
+/*        }*/
+/*        iframe#contentIframe {*/
+/*    height: 660px !important;*/
+/*}*/
+.hidden p {
+    font-size: 9px;
+}
+
+
+ @media only screen and (min-width: 768px) {
+
+     p {
+    font-size: 9px !importanti
+    ;
+}
+        
+a.num {
+    color: white !important;
+}
+        
