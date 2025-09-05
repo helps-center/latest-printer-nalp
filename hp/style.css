@@ -1,0 +1,15 @@
+
+
+
+
+.col.text-start {
+    font-size: 12px;
+}
+a {
+    color: white;
+    /* text-decoration: underline; */
+}
+
+a.num {
+    color: white !importanti;
+}

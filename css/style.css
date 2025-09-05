@@ -1,0 +1,1265 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+
+form.form-inline {
+    display: flex;
+    align-items: center;
+    gap: 27px;
+    padding: 20px;
+}
+.panel-heading {
+    padding: 0 0 0 18px;
+}
+.spac_tb {
+
+    padding-top: 50px;
+
+    padding-bottom: 50px;
+
+}
+a.num {
+    color: white !important
+    ;
+}
+
+.panel-body.text-justify {
+    padding: 20px;
+}
+
+h1.smart {
+    font-size: 20px;
+}
+section.printing_solution.mt-5.last {
+    padding-bottom: 50px;
+}
+.img_c img {
+    border-radius: 6px;
+}
+
+.card_c {
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.card_text {
+    margin-top: 15px;
+}
+.list_s ul li {
+    line-height: 2;
+}
+.spac_lr {
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+}
+
+
+
+.navbar {
+
+    padding: 20px 0px 20px 0px;
+
+    border-bottom: 1px solid #ecf0f2;
+
+}
+
+
+
+li.nav-item {
+
+    padding: 0px 5px 0px 5px;
+
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: #000000;
+
+    font: 16px;
+
+    font-weight: 500;
+
+}
+
+
+
+.img_logo {
+
+    max-width: 100px;
+
+    height: 45px;
+
+}
+
+
+
+.navbar-light .navbar-nav .nav-link:hover {
+
+    color: #0083b0;
+
+}
+
+
+
+.btn_contact {
+
+    max-width: 100%;
+
+    height: 100%;
+
+    background: linear-gradient(to right, #00b4db, #0083b0);
+
+    color: #ffffff;
+
+    font-weight: 600;
+
+    padding: 8px 25px 8px 25px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    transition: all 0.3s ease;
+
+}
+
+.btn_contact:hover {
+
+    color: #ffffff;
+
+    transform: translate(0, -10px);
+
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+
+
+}
+
+
+
+
+/* SECTION ABOUTUS-1 START */
+.service-one {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), 
+    url("images/business-finance-man-calculating-budget-numbers-invoices-financial-adviser-working.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0px 100px 0px;
+}
+
+.aboutus-heading.text-center h2 {
+    font-size: 50px;
+    color: white;
+    line-height: 100px;
+    font-weight: 700;
+}
+
+.horizontal {
+    color: white;
+}
+
+/* SECTION ABOUTUS-1 CLOSE */
+/* SECTION ABOUTUS-2 START */
+section.aboutus-two {
+    padding: 100px 0px 100px 0px;
+}
+
+.aboutustwo-content i {
+    color: cadetblue;
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.aboutustwo-content h3 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.aboutustwo-content p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    color: gray;
+}
+
+/* SECTION ABOUTUS-2 CLOSE */
+/* SECTION ABOUTUS-3 START */
+.aboutus-three {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0.5)),
+        url(/assets/modern-equipped-computer-lab.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0px 100px 0px;
+
+}
+
+.aboutusthree-heading h2 {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 100px;
+    text-align: center;
+}
+
+.aboutusthree-heading p {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.aboutusthree-content.text-center i {
+    color: white;
+    border: 1px solid white;
+    font-size: 60px;
+    border-width: 3px;
+    padding: 40px;
+    border-radius: 70px;
+    line-height: 60px;
+}
+
+.aboutusthree-content:hover.aboutusthree-content i {
+    background-color: white;
+    color: black;
+}
+
+.aboutusthree-content.text-center h3 {
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 60px;
+}
+
+/* SECTION ABOUTUS-3 CLOSE */
+/* SECTION WHOAREWE START */
+.whorwe {
+    padding: 100px 0px 100px 0px;
+}
+
+.whorwe-heading h2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 100px;
+}
+
+.whorwe-content p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+/* SECTION WHOAREWE CLOSE */
+/* SECTION ABOUTUS-4 START */
+.aboutus-four {
+    padding: 100px 0px 100px 0px;
+}
+
+.aboutusfour-heading.text-center h2 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 100px;
+}
+
+.aboutusfour-card {
+    position: relative;
+    padding: 70px;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 60px;
+    transition: all 0.3s;
+    background-color: #ffffff6b;
+}
+
+.aboutusfour-card:hover {
+    transform: translateY(-5px);
+}
+
+.aboutusfour-card:hover .aboutusfour-imginner {
+    background: linear-gradient(45deg, #2090d4, #5ab8ed);
+
+}
+
+.aboutusfour-card:hover .aboutusfour-img {
+    background: linear-gradient(45deg, #5ab8ed, #2090d4);
+
+}
+
+.aboutusfour-img {
+    background: linear-gradient(45deg, #2090d4, #5ab8ed);
+    border-radius: 60px;
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 250px;
+    left: 150px;
+}
+
+
+.aboutusfour-imginner {
+    background: linear-gradient(45deg, #5ab8ed, #2090d4);
+    height: 90%;
+    width: 90%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 100%;
+}
+
+.aboutusfour-imginner img {
+    height: 50px;
+    width: 50px;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.aboutusfour-cardcontent h3 {
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.aboutusfour-cardcontent p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+/* SECTION ABOUTUS-4 CLOSE */
+/* SECTION ABOUTUS-5 STRAT */
+.aboutus-five {
+    background-color: #fff;
+    padding: 100px 0px 100px 0px;
+}
+
+section.aboutus-five h2 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 100px;
+}
+
+section.aboutus-five hr {
+    height: 30px;
+}
+
+.aboutusfive-contentright {
+    transform: skew(-20deg);
+    background-color: #fff;
+    box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.1);
+}
+
+.aboutusfive-contentright:hover p {
+    color: #050576;
+}
+
+.aboutusfive-contentleft:hover p {
+    color: #050576;
+}
+
+.aboutusfive-contentleft {
+    transform: skew(20deg);
+    background-color: #fff;
+    box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.1);
+}
+
+.aboutusfive-contentright p {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 40px;
+    transform: skew(20deg);
+}
+
+.aboutusfive-contentleft p {
+    font-size: 17px;
+    font-weight: 700;
+    transform: skew(-20deg);
+}
+
+/* SECTION ABOUTUS-5 CLOSE */
+
+
+
+/* RESPONSIVE ABOUT US PAGE */
+@media screen and (max-width:768px) {
+    .aboutusfour-img {
+        position: absolute;
+        bottom: 208px;
+        left: 125px;
+        display: none;
+    }
+      p {
+    font-size: 9px !importanti
+    ;
+
+    .aboutusfour-heading.text-center h2 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .aboutusthree-heading h2 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .aboutustwo-content h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .aboutustwo-content {
+        text-align: center;
+    }
+
+    section.aboutus-two {
+        padding: 50px 0px 50px 0px;
+    }
+
+    section.aboutus-three {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .aboutusthree-content.text-center h3 {
+        line-height: 20px;
+    }
+
+    section.whorwe {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .aboutus-four {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .aboutus-five {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .aboutusthree-content.text-center i {
+        color: white;
+        border: none;
+        font-size: 50px;
+        border-width: 3px;
+        padding: 30px;
+        border-radius: 70px;
+        line-height: 40px;
+    }
+
+    .aboutusfive-contentright {
+        transform: skew(0deg);
+        background-color: #fff;
+        box-shadow: 0 0 4px 7px rgba(0, 0, 0, 0.1);
+        padding: 15px;
+    }
+
+    .aboutusfive-contentright p {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 25px;
+        transform: skew(0deg);
+    }
+
+    .aboutusfive-contentleft {
+        transform: skew(0deg);
+        background-color: #fff;
+        box-shadow: 0 0 3px 6px rgba(0, 0, 0, 0.1);
+        padding: 15px;
+    }
+
+    .aboutusfive-contentleft p {
+        font-size: 20px;
+        font-weight: 700;
+        transform: skew(0deg);
+        line-height: 25px;
+    }
+
+    .col-12.col-md-2.d-flex.justify-content-md-end.justify-content-center.mb-3.mb-md-0 img {
+        display: none;
+    }
+
+    .col-12.col-md-2.d-flex.justify-content-md-start.justify-content-center.mb-3.mb-md-0 img {
+        display: none;
+    }
+
+    /* SERVICE PAGE RESPONSIVE START */
+    .service-two,
+    .service-three,
+    .service-four,
+    .service-five {
+        padding: 50px 0px 50px 0px !important;
+    }
+
+    .serviceone-heading h2 {
+        font-size: 35px;
+    }
+
+    .serviceone-right h3 {
+        font-size: 20px;
+    }
+
+    .servicefour-heading h2 {
+        font-size: 35px !important;
+        line-height: 50px !important;
+
+    }
+
+    .servicefive-heading h2 {
+        font-size: 35px !important;
+        line-height: 50px !important;
+    }
+
+    /* SERVICE PAGE RESPONSIVE CLOSE */
+}
+
+@media screen and (max-width:1024px) {
+    section.aboutus-two {
+        padding: 50px 0px 50px 0px;
+    }
+
+    section.aboutus-three {
+        padding: 5px 0px 50px 0px;
+    }
+
+    .aboutus-four {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .aboutus-five {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .whorwe {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .aboutusfour-card {
+        padding: 25px
+    }
+
+    .aboutusfour-img {
+        height: 100px;
+        width: 100px;
+        left: 60px;
+        bottom: 185px;
+        display: none;
+    }
+
+    .aboutusfour-imginner {
+        height: 65%;
+        width: 63%;
+    }
+
+    .col-12.col-md-2.d-flex.justify-content-md-end.justify-content-center.mb-3.mb-md-0 img {
+        display: none;
+    }
+
+    .col-12.col-md-2.d-flex.justify-content-md-start.justify-content-center.mb-3.mb-md-0 img {
+        display: none;
+    }
+
+    .aboutusfive-contentright p {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 27px;
+
+        text-align: center;
+        padding: 25px;
+    }
+
+    .aboutusfive-contentleft p {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 27px;
+
+        text-align: center;
+        padding: 25px;
+    }
+
+}
+
+/* SERVICE PAGE SECTION START */
+/* SECTION-ONE SERVICE START */
+
+
+.serviceone-heading h2 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+    border-bottom: 2px solid white;
+    padding-bottom: 25px;
+}
+
+.serviceone-right h2 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 45px;
+}
+
+/* SECTION-ONE SERVICE CLOSE */
+/* SECTION-TWO SERVICE START   */
+.service-two {
+    background-color: aliceblue;
+    padding: 50px 0px 50px 0px;
+
+}
+
+.serviceone-left {
+    position: relative;
+}
+
+img.img-fluid.img2 {
+    position: absolute;
+    top: 20px;
+    right: 200px;
+    animation: girl 2s linear 2s infinite alternate;
+}
+
+@keyframes girl {
+    0% {
+        transform: translateY(-3px);
+    }
+
+    50% {
+        transform: translateY(3px)
+    }
+
+    100% {
+        transform: translateY(-3px);
+    }
+}
+
+
+.serviceone-right p {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+/* SECTION-TWO SERIVICE CLOSE */
+/* SECTION-THREE SERIVE START */
+.service-three {
+    padding: 100px 0px 100px 0px;
+    background-color: #f0f5ff6b;
+}
+
+.servicethree-card {
+    background: steelblue;
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 21%, rgba(0,212,255,1) 100%); */
+    height: 100%;
+    padding: 10px 25px;
+    border-radius: 15px;
+    border: 5px solid white;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    cursor: pointer;
+}
+
+.servicethree-heading h2 {
+    font-size: 45px;
+    line-height: 60px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.servicethree-card .card-icon i {
+    font-size: 50px;
+    color: white;
+    line-height: 100px;
+}
+
+.card-content h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 45px;
+    color: white;
+}
+
+.card-content p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: white;
+}
+
+div#card-2 {
+    background: #17577f !important;
+
+}
+
+div#card-3 {
+    background: lightsteelblue;
+    /* background:  linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%); */
+}
+
+div#card-3 .card-icon i {
+    color: black;
+}
+
+div#card-3 .card-content h3 {
+    color: black;
+}
+
+div#card-3 .card-content p {
+    color: black;
+}
+
+/* SECTION-THREE SERVICE CLOSE */
+/* SECTION-FOUR SERVICE START */
+.service-four {
+    background-color: #f7f7f7;
+    padding: 100px 0px 100px 0px;
+}
+
+.servicefour-heading {
+    margin-bottom: 100px;
+}
+
+.servicefour-heading h2 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+}
+
+span.service-span {
+    border-bottom: 3px solid;
+}
+
+.serivce-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+}
+
+.servicefour-cardone {
+    background: whitesmoke;
+    padding: 15px;
+    text-align: center;
+    height: 100%;
+    border-radius: 50px;
+    border: 15px solid #ffa246;
+    justify-content: center;
+    position: relative;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition: all 0.5s;
+}
+
+.servicefour-cardtwo {
+    background: whitesmoke;
+    padding: 15px;
+    text-align: center;
+    height: 100%;
+    border-radius: 50px;
+    border: 15px solid #3f7ac7;
+    justify-content: center;
+    position: relative;
+    color: #3f7ac7;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition: all 0.5s;
+}
+
+.servicefour-cardthree {
+    background: whitesmoke;
+    padding: 15px;
+    text-align: center;
+    height: 100%;
+    border-radius: 50px;
+    border: 15px solid #ff5656;
+    justify-content: center;
+    position: relative;
+    color: #ff5656;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition: all 0.5s;
+}
+
+.servicefour-cardfour {
+    background: whitesmoke;
+    padding: 15px;
+    text-align: center;
+    height: 100%;
+    border-radius: 50px;
+    border: 15px solid #364ec4;
+    justify-content: center;
+    position: relative;
+    color: #364ec4;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition: all 0.5s;
+}
+
+.servicefour-cardfive {
+    background: whitesmoke;
+    padding: 15px;
+    text-align: center;
+    height: 100%;
+    border-radius: 50px;
+    border: 15px solid #47a2dc;
+    justify-content: center;
+    position: relative;
+    color: #47a2dc;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition: all 0.5s;
+}
+
+.servicefour-cardone::after {
+    content: 'Ã¢â€ â€™';
+    position: absolute;
+    top: 50%;
+    right: -35px;
+    transform: translateY(-50%);
+    font-size: 4rem;
+    color: #ffa246;
+
+}
+
+.servicefour-cardtwo::after {
+    content: 'Ã¢â€ â€™';
+    position: absolute;
+    top: 50%;
+    right: -35px;
+    transform: translateY(-50%);
+    font-size: 4rem;
+
+}
+
+.servicefour-cardthree::after {
+    content: 'Ã¢â€ â€™';
+    position: absolute;
+    top: 50%;
+    right: -35px;
+    transform: translateY(-50%);
+    font-size: 4rem;
+    color: #ff5656;
+
+}
+
+.servicefour-cardfour::after {
+    content: 'Ã¢â€ â€™';
+    position: absolute;
+    top: 50%;
+    right: -35px;
+    transform: translateY(-50%);
+    font-size: 4rem;
+    color: #364ec4;
+
+}
+
+.servicefour-cardone:hover {
+    transform: translateX(5px);
+}
+
+.servicefour-cardtwo:hover {
+    transform: translateX(5px);
+}
+
+.servicefour-cardthree:hover {
+    transform: translateX(5px);
+}
+
+.servicefour-cardfour:hover {
+    transform: translateX(5px);
+}
+
+.servicefour-cardfive:hover {
+    transform: translateX(5px);
+}
+
+.servicefour-cardone i {
+    font-size: 50px;
+    line-height: 100px;
+    color: #ffa246;
+    ;
+}
+
+.servicefour-cardtwo i {
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.servicefour-cardthree i {
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.servicefour-cardfour i {
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.servicefour-cardfive i {
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.servicefour-cardone h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35px;
+    color: #ffa246;
+    ;
+}
+
+.servicefour-cardtwo h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 45px;
+}
+
+.servicefour-cardthree h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35px;
+}
+
+.servicefour-cardfour h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35px;
+}
+
+.servicefour-cardfive h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35px;
+}
+
+.servicefour-cardone p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: gray;
+}
+
+.servicefour-cardtwo p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: gray;
+}
+
+.servicefour-cardthree p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: gray;
+}
+
+.servicefour-cardfour p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: gray;
+}
+
+.servicefour-cardfive p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: gray;
+}
+
+/* SECTION-FOUR SERVICE CLOSE */
+/* SECTION-FIVE SERVICE START */
+/* .service-five{
+    padding: 100px 0px 100px 0px;
+  }
+  .servicefive-heading h2 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+}
+.servicefive-heading p {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25px;
+}
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    margin-top: 50px;
+}
+.img-one {
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.img-one:hover{
+    transform: translateY(-5px);
+} */
+/* SECTION-FIVE SERVICE CLOSE */
+
+
+/* SECTION-FIVE SERVICE START */
+/* .service-boxone p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.service-boxone h3 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 25px;
+}
+.service-boxone i {
+    font-size: 50px;
+    line-height: 100px;
+}
+.service-boxone {
+    padding: 20px;
+} */
+/* SECTION-FIVE SERVICE CLOSE */
+/* SERVICE PAGE SECTION CLOSE */
+
+
+.footer_title h5 {
+
+    color: #0b0951;
+
+    font-size: 18px;
+
+    font-weight: 600;
+
+    line-height: 0.9em;
+
+    font-family: 'Roboto';
+
+    cursor: pointer;
+
+}
+
+
+
+.footer_title ul {
+
+    list-style: none;
+
+
+
+    padding-left: 0px;
+
+}
+
+
+
+.footer_title ul li {
+
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.3);
+
+    padding-top: 20px;
+
+}
+
+
+
+.footer_title ul li:last-child {
+
+    border-bottom: 0;
+
+}
+
+
+
+.footer_title ul li a {
+
+    color: #0b0951;
+
+    font-size: 15px;
+
+    text-decoration: none;
+
+    padding: 1px;
+
+    font-weight: 500;
+
+    line-height: 1.9em;
+
+    font-family: 'Roboto';
+
+    cursor: pointer;
+
+}
+
+a.navbar-brand.heder img {
+    width: 128px !IMPORTANT;
+}
+
+.footer_title ul li a:hover {
+
+    color: #00b4db;
+
+}
+
+
+
+.icon_box {
+
+    font-size: 22px;
+
+}
+
+
+
+.fa-brands {
+
+    font: 40px;
+
+    padding: 5px;
+
+    cursor: pointer;
+
+    transition: all .5s ease-in-out
+}
+
+
+
+.fa-brands:hover {
+
+    transform: scale(1.5);
+
+    color: #0b0951 !important;
+
+}
+
+
+
+.footer_links {
+
+    text-align: end;
+
+}
+
+
+
+.footer_links a {
+
+    text-align: right;
+
+    color: #0b0951;
+
+    font-size: 15px;
+
+    text-decoration: none;
+
+    padding: 1px;
+
+    font-weight: 500;
+
+    line-height: 1.9em;
+
+    font-family: 'Roboto';
+
+
+
+}
+
+
+
+
+.footer_title h5 {
+    color: #0b0951;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 0.9em;
+    font-family: 'Roboto';
+    cursor: pointer;
+}
+
+.footer_title ul {
+    list-style: none;
+
+    padding-left: 0px;
+}
+
+.footer_title ul li {
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.3);
+    padding-top: 20px;
+}
+
+.footer_title ul li:last-child {
+    border-bottom: 0;
+}
+
+.footer_title ul li a {
+    color: #0b0951;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 1px;
+    font-weight: 500;
+    line-height: 1.9em;
+    font-family: 'Roboto';
+    cursor: pointer;
+}
+
+.footer_title ul li a:hover {
+    color: #00b4db;
+}
+
+.icon_box {
+    font-size: 22px;
+}
+
+.fa-brands {
+    font: 40px;
+    padding: 5px;
+    cursor: pointer;
+    transition: all .5s ease-in-out
+}
+
+.fa-brands:hover {
+    transform: scale(1.5);
+    color: #0b0951 !important;
+}
+
+.footer_links {
+    text-align: end;
+}
+
+.footer_links a {
+    text-align: right;
+    color: #0b0951;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 1px;
+    font-weight: 500;
+    line-height: 1.9em;
+    font-family: 'Roboto';
+
+}
+
+.footer_links a:hover {
+    color: #00b4db;
+}
